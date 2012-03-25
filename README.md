@@ -21,22 +21,22 @@ Leet (or "1337"), also known as eleet or leetspeak is an alternative alphabet fo
 
 ## Screenshots
 
-###CoffeeScript:
-![CoffeeScript code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/coffeescript "CoffeeScript code")
+####CoffeeScript:
+![CoffeeScript code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/coffeescript.png "CoffeeScript code")
 
-###JavaScript:
-![JavaScript code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/javascript "JavaScript code")
+####JavaScript:
+![JavaScript code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/javascript.png "JavaScript code")
 
-###Dart:
-![Dart code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/dart "Dart code")
+####Dart:
+![Dart code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/dart.png "Dart code")
 
-###C++:
+####C++:
 ![C++ code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/cpp.png "C++ code")
 
-###CSS:
-![CSS code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/css "CSS code")
+####CSS:
+![CSS code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/css.png "CSS code")
 
-###HTML:
-![HTML code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/html "HTML code")
+####HTML:
+![HTML code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/html.png "HTML code")
 
 * Copyright (c) 2012 [Alexander Guinness] (https://github.com/monolithed)
