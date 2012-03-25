@@ -1,5 +1,7 @@
 # Color scheme \<Monolith\> for JetBrains IntelliJ IDEA
 
+Color schemes for: CoffeeScript, JavaScript, Python, Dart, C++, CSS, HTML
+
 ##License
     MIT
 
@@ -24,6 +26,9 @@ cp color.jar your_workspace_directory
 
 ####JavaScript:
 ![JavaScript code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/javascript.png "JavaScript code")
+
+####Python:
+![Python code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/python.png "Python code")
 
 ####Dart:
 ![Dart code](http://monolithed.github.com/IntelliJ-IDEA-color-scheme/files/dart.png "Dart code")
