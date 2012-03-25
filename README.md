@@ -8,15 +8,15 @@ Leet (or "1337"), also known as eleet or leetspeak is an alternative alphabet fo
 
 ## Install
 
-```bash
-# git clone git@github.com:monolithed/IntelliJ-IDEA-color-scheme.git
-# cd IntelliJ-IDEA-color-scheme
-# cp color.jar your_workspace_directory
+```
+git clone git@github.com:monolithed/IntelliJ-IDEA-color-scheme.git
+cd IntelliJ-IDEA-color-scheme
+cp color.jar your_workspace_directory
 ```
 
 1. Clone project
-2. Copy \<color.jar\> file into your workspace directory
-3. Open JetBrains IntelliJ IDEA (any product) then: File -> Import Settings -> Choose file -> Ok
+2. Copy <i>color.jar</i> file into your workspace directory
+3. Open <i>JetBrains IntelliJ IDEA</i> (any product) then: File -> Import Settings -> Choose the file -> Ok
 
 
 ## Screenshots
