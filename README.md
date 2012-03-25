@@ -1,7 +1,5 @@
 # Color scheme \<Monolith\> for JetBrains IntelliJ IDEA
 
-Leet (or "1337"), also known as eleet or leetspeak is an alternative alphabet for the English language that is used primarily on the Internet.
-
 ##License
     MIT
 
