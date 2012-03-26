@@ -15,7 +15,7 @@ cp color.jar your_workspace_directory
 ```
 
 1. Clone project
-2. Copy <i>color.jar</i> file into your workspace directory
+2. Copy <i>scheme.jar</i> file into your workspace directory
 3. Open <i>JetBrains IntelliJ IDEA</i> (any product) then: File -> Import Settings -> Choose the file -> Ok
 
 
